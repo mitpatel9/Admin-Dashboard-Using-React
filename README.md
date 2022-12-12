@@ -1,3 +1,27 @@
+Admin Dashboard
+
+Home Page
+![screencapture-localhost-3000-2022-12-12-13_09_33](https://user-images.githubusercontent.com/114661364/206996313-bb23e1c2-d810-478f-97dc-da8b6ed2fb38.png)
+
+User Page
+![screencapture-localhost-3000-user-2022-12-12-13_48_42](https://user-images.githubusercontent.com/114661364/206996441-c53fdeda-84cd-4a7f-93e9-c450c15ee8b2.png)
+
+Edit User
+![screencapture-localhost-3000-user-1-2022-12-12-13_48_52](https://user-images.githubusercontent.com/114661364/206996548-64dedf60-5914-4ff5-b773-6ac394b722f1.png)
+
+Add New User
+![screencapture-localhost-3000-newuser-2022-12-12-13_49_12](https://user-images.githubusercontent.com/114661364/206996806-0ff540a6-eb2a-49f6-8613-3c8be67782a4.png)
+
+Product
+![screencapture-localhost-3000-productlist-1-2022-12-12-13_49_45](https://user-images.githubusercontent.com/114661364/206997019-0fe3d53d-5eb5-4b2d-9d56-f40e1064eb5c.png)
+
+Product List
+![screencapture-localhost-3000-productlist-2022-12-12-13_49_33](https://user-images.githubusercontent.com/114661364/206997094-0390eeb2-f1c8-4087-9749-e7dc0b8a49d5.png)
+
+Add New Product
+![screencapture-localhost-3000-newproduct-2022-12-12-13_50_11](https://user-images.githubusercontent.com/114661364/206997147-4e8c66a5-b655-42f8-80e9-988e646ffba9.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
